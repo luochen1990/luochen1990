@@ -9,6 +9,15 @@
 **luochen1990/luochen1990** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+Wakatime Stats still not working.
+
+check this to confirm it: https://github-readme-stats.vercel.app/api/wakatime?username=willianrod
+
+<a href="https://github.com/luochen1990">
+  <img align="center" alt="Wakatime Stats" src="https://github-readme-stats.vercel.app/api/wakatime/?theme=blueberry&username=luochen1990" />
+</a>
+
+
 DOC: https://github.com/anuraghazra/github-readme-stats
 Theme: https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
